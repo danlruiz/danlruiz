@@ -26,6 +26,13 @@ Co-founder and lead engineer at **Pulsotech**. Canadian, EU and Brazilian citize
       <b>Pivott</b>: contract and vendor management for multifamily property managers. Core engineer on the zero-to-production build; owned spend management and the reminders engine.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/noki.png" alt="Noki Exchange" width="100%"><br>
+      <b>Noki Exchange</b>: smart-locker app for IoT lockboxes. Built the mobile app independently, plus the backend, recurring payments and the admin and support dashboards.
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 Most of this code belongs to clients or my company and isn't public. Happy to walk through any of it.
