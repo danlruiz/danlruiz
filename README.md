@@ -1,4 +1,4 @@
-# Daniel Lacaz Ruiz
+# Daniel Ruiz
 
 Full-stack engineer building SaaS products from scratch: **Python / Django**, **Vue & React**, **React Native**, **AWS**.
 Co-founder and lead engineer at **Pulsotech**. Canadian, EU and Brazilian citizen based in Brazil · native English, French and Portuguese.
