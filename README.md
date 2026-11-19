@@ -27,11 +27,10 @@ Co-founder and lead engineer at **Pulsotech**. Based in Brazil · native English
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://play.google.com/store/apps/details?id=io.N9000"><img src="assets/noki.png" alt="Noki Exchange" width="100%"></a><br>
+    <td colspan="2" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=io.N9000"><img src="assets/noki.png" alt="Noki Exchange" width="49%" align="left"></a>
       <b><a href="https://play.google.com/store/apps/details?id=io.N9000">Noki Exchange</a></b>: smart-locker app for IoT lockboxes. Built the mobile app independently, plus the backend, recurring payments and the admin and support dashboards.
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
